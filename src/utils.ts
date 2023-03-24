@@ -4,4 +4,4 @@ function getRandomInt(min: number, max: number) {
   return Math.floor(Math.random() * (newMax - newMin)) + newMin;
 }
 
-export default getRandomInt;a
+export default getRandomInt;
