@@ -3,7 +3,7 @@ import Dwarf from './Dwarf';
 import Elf from './Elf';
 import Halfling from './Halfling';
 import Orc from './Orc';
-import Archetype from '../Archetype';
+// import Archetype from '../Archetype';
 
 export default Race;
 
@@ -12,5 +12,5 @@ export {
   Elf,
   Halfling,
   Orc,
-  Archetype,
+  // Archetype,
 };
